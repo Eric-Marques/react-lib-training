@@ -1,0 +1,30 @@
+.Card {
+  color: black;
+  background-color: white;
+  padding: 0 0 8rem 0;
+  margin: 0 5rem 0 5rem;
+}
+
+.title {
+  background-color: red;
+  color: white;
+  text-align: center;
+  padding-bottom: 1rem;
+  padding-top: 1rem;
+}
+
+.sub {
+  margin: 10px 0 0 0;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+.content {
+  text-align: center;
+  margin-top: 10px;
+}
+
+.content span{
+  color: rgb(255, 230, 0);
+  text-shadow: 0.5px 0.5px 0.5px black;
+}

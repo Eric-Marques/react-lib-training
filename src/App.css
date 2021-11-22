@@ -1,0 +1,24 @@
+h1 {
+  text-align: center;
+}
+
+.Myself {
+  text-align: center;
+}
+
+.Myself img {
+  border-radius: 50%;
+  height: 12rem;
+}
+.Myself span {
+  color: rgb(0, 162, 255);
+}
+.Myself img:hover {
+  box-shadow: 1px 5px 5px 5px rgb(0, 174, 255);
+  transition: ease-in-out 0.5s 0.5s;
+  cursor: pointer;
+}
+
+.Cards {
+  justify-content: center;
+}
